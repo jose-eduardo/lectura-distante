@@ -28,7 +28,7 @@ desea, el estudiante podrá aprender más sobre estos temas y continuar su educa
 de las humanidades digitales de UNL.
 	Este curso no requiere experiencia previa en programación. 
 
-**EVALUACIÓN:**
+**EVALUACIÓN**
 
 + 15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
 
@@ -57,6 +57,8 @@ de las humanidades digitales de UNL.
 
    Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
+
+**PROGRAMA**
 
  23 de agosto 	
 
