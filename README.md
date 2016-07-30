@@ -1,8 +1,8 @@
-#Lectura distante y las corrientes literarias al comienzo del siglo XX en América Latina. 
+#Lectura distante y las corrientes literarias al comienzo del siglo XX en América Latina.
 
-José Eduardo González/ Universidad de Nebraska
-Otoño del 2016
-SPAN 991
+   José Eduardo González/ Universidad de Nebraska  
+   Otoño del 2016  
+   SPAN 991  
 
 **OBJETIVO**
 
