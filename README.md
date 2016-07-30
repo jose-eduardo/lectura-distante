@@ -46,12 +46,12 @@ de las humanidades digitales de UNL.
 
 Ficción/Poesía:
 
-... Rómulo Gallegos, *Doña Bárbara.*
-... Jorge Icaza, *Huasipungo.*
-... Mariano Azuela, *Los de abajo.*
-... Aurora Cáceres, *La rosa muerta.*
-... Nellie Campobello, *Cartucho.*
-... Y otros textos disponibles a través de Blackboard en formato digital.
+...Rómulo Gallegos, *Doña Bárbara.*
+...Jorge Icaza, *Huasipungo.*
+...Mariano Azuela, *Los de abajo.*
+...Aurora Cáceres, *La rosa muerta.*
+...Nellie Campobello, *Cartucho.*
+...Y otros textos disponibles a través de Blackboard en formato digital.
 
 Humanidades digitales:
 
