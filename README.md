@@ -44,16 +44,16 @@ de las humanidades digitales de UNL.
 
 **TEXTOS**
 
-+ Ficción/Poesía:
+1. Ficción/Poesía:
 
-...Rómulo Gallegos, *Doña Bárbara.*
-...Jorge Icaza, *Huasipungo.*
-...Mariano Azuela, *Los de abajo.*
-...Aurora Cáceres, *La rosa muerta.*
-...Nellie Campobello, *Cartucho.*
-...Y otros textos disponibles a través de Blackboard en formato digital.
+   Rómulo Gallegos, *Doña Bárbara.*  
+   Jorge Icaza, *Huasipungo.*  
+   Mariano Azuela, *Los de abajo.*  
+   Aurora Cáceres, *La rosa muerta.*  
+   Nellie Campobello, *Cartucho.*  
+   Y otros textos disponibles a través de Blackboard en formato digital.  
 
-+ Humanidades digitales:
+2. Humanidades digitales:
 
-...Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
+   Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
