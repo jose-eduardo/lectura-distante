@@ -30,10 +30,13 @@ de las humanidades digitales de UNL.
 
 **EVALUACIÓN:**
 
-+15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
+1. 15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
+
 +15%	Segundo trabajo. Creación y análisis de una red social para Los de abajo o Huasipungo.
+
 +40%	Tareas. Una serie de tareas asignadas relacionadas al lenguaje R. El estudiante responderá a preguntas que
 	requieren el análisis de datos y/o ejercicios de programación. 
+	
 +30%	Trabajo final individual. Uso de técnicas de minería de textos para estudiar uno de los textos sobre el cual ya 
 	hemos realizado una lectura “cercana”. 
 
