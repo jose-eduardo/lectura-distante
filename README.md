@@ -30,14 +30,14 @@ de las humanidades digitales de UNL.
 
 **EVALUACIÓN:**
 
-1. 15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
++ 15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
 
-+15%	Segundo trabajo. Creación y análisis de una red social para Los de abajo o Huasipungo.
++ 15%	Segundo trabajo. Creación y análisis de una red social para Los de abajo o Huasipungo.
 
-+40%	Tareas. Una serie de tareas asignadas relacionadas al lenguaje R. El estudiante responderá a preguntas que
++ 40%	Tareas. Una serie de tareas asignadas relacionadas al lenguaje R. El estudiante responderá a preguntas que
 	requieren el análisis de datos y/o ejercicios de programación. 
 	
-+30%	Trabajo final individual. Uso de técnicas de minería de textos para estudiar uno de los textos sobre el cual ya 
++ 30%	Trabajo final individual. Uso de técnicas de minería de textos para estudiar uno de los textos sobre el cual ya 
 	hemos realizado una lectura “cercana”. 
 
 
@@ -45,13 +45,15 @@ de las humanidades digitales de UNL.
 **TEXTOS**
 
 Ficción/Poesía:
-Rómulo Gallegos, *Doña Bárbara.*
-Jorge Icaza, *Huasipungo.*
-Mariano Azuela, *Los de abajo.*
-Aurora Cáceres, *La rosa muerta.*
-Nellie Campobello, *Cartucho.*
-Y otros textos disponibles a través de Blackboard en formato digital.
+
+... Rómulo Gallegos, *Doña Bárbara.*
+... Jorge Icaza, *Huasipungo.*
+... Mariano Azuela, *Los de abajo.*
+... Aurora Cáceres, *La rosa muerta.*
+... Nellie Campobello, *Cartucho.*
+... Y otros textos disponibles a través de Blackboard en formato digital.
 
 Humanidades digitales:
-Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
+
+...Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
