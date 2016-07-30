@@ -67,4 +67,76 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
    Introducción al lenguaje **R**, Vectores  
 
    Tarea: Capítulo 1 de Jockers, *TAWR*  
-          Empezar a leer *Huasipungo*
+    Empezar a leer *Huasipungo*  
+
+30 de agosto  
+
+    
+   *Huasipungo* y las características estilísticas de la novela indigenista (I)  
+   Programación:  
+     Indices de vectores, Uso de scan, which, length , paste, y diferencias entre vectores, listas, y matrices  
+   Tarea: Capítulo 2 de *TAWR*, Terminar *Huasipungo*  
+
+6 de septiembre	*No hay clase*  
+
+13 de septiembre  
+   *Huasipungo* y las características estilísticas de la novela indigenista (II)  
+   Programación:  
+     Loops  
+   Tarea: Capítulo 3 de *TAWR*  
+	
+20 de septiembre  
+   Una mirada a recursos como *Voyant*, *Texteture*, *Google Ngrams* necesarios para el primer trabajo  
+   Análisis de redes sociales: [Franco Moretti, “Teoría de redes, Análisis de trama”]   (http://newleftreview.es/article/download_pdf?language=es&id=869).  
+   Programación:  
+     grep, rbind, lapply, do.call  
+   Tarea: Capítulo 4 de *TAWR*  
+
+27 de septiembre  
+   La novela de la revolución mexicana. Azuela, *Los de abajo*  
+   Programación:  
+    data frame  
+   Tarea: Capítulo 5 de *TAWR*  
+   **Entrega del primer trabajo**  
+
+4 de octubre  
+   La novela de la revolución mexicana. Campobello, *Cartucho*  
+   Programación:  
+     volver a “table” [sum, length, mean aplicado al “table”]  
+   Tarea: Capítulo 6 de *TAWR*  
+
+11 de octubre  
+   La novela de la revolución mexicana. Campobello, *Cartucho*  
+   Programación:  
+    funciones  
+   Tarea: Capítulo 8 de *TAWR*  
+
+25 de octubre  
+   El lenguaje del modernismo. Cáceres, *La rosa muerta*  
+   Tarea: Capítulo 9 de *TAWR*  
+
+1 de noviembre  
+   El lenguaje del modernismo: Rubén Darío, *Prosas profanas* y Manuel Gutiérrez Nájera (Selección de poemas)  
+   **Entrega del segundo trabajo**  
+
+8 de noviembre  
+   La novela de la tierra: *Doña Bárbara*  
+   Programación:  
+    Presentación de *Topic modeling*  
+
+15 de noviembre  
+   La novela de la tierra: *Doña Bárbara*  
+   *Topic modeling* aplicado a la narrativa  
+
+22 de noviembre  
+   La novela de la tierra: *Doña Bárbara*  
+	
+29 de noviembre  
+   Presentación del programa “Stylo”  
+   Análisis estilográfico de narrativa novelística  
+
+6 de diciembre
+   Presentación de los trabajos finales  
+   
+   
+
