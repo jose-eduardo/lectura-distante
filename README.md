@@ -44,7 +44,7 @@ de las humanidades digitales de UNL.
 
 **TEXTOS**
 
-Ficción/Poesía:
++ Ficción/Poesía:
 
 ...Rómulo Gallegos, *Doña Bárbara.*
 ...Jorge Icaza, *Huasipungo.*
@@ -53,7 +53,7 @@ Ficción/Poesía:
 ...Nellie Campobello, *Cartucho.*
 ...Y otros textos disponibles a través de Blackboard en formato digital.
 
-Humanidades digitales:
++ Humanidades digitales:
 
 ...Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
