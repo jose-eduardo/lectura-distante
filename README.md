@@ -1,4 +1,4 @@
-#Lectura distante y las corrientes literarias al comienzo del siglo XX en América Latina.
+###Lectura distante y las corrientes literarias al comienzo del siglo XX en América Latina.
 
    José Eduardo González/ Universidad de Nebraska  
    Otoño del 2016  
@@ -57,3 +57,12 @@ de las humanidades digitales de UNL.
 
    Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
+
+ 23 de agosto 	
+
+     Introducción al curso: historia literaria y lenguajes de programación  
+     Instalación de *Rstudio*  
+     Introducción al lenguaje **R**, Vectores  
+
+     Tarea: Capítulo 1 de Jockers, *TAWR*  
+          Empezar a leer Huasipungo
