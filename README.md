@@ -62,9 +62,9 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 
  23 de agosto 	
 
-     Introducción al curso: historia literaria y lenguajes de programación  
-     Instalación de *Rstudio*  
-     Introducción al lenguaje **R**, Vectores  
+   Introducción al curso: historia literaria y lenguajes de programación  
+   Instalación de *Rstudio*  
+   Introducción al lenguaje **R**, Vectores  
 
-     Tarea: Capítulo 1 de Jockers, *TAWR*  
-          Empezar a leer Huasipungo
+   Tarea: Capítulo 1 de Jockers, *TAWR*  
+          Empezar a leer *Huasipungo*
