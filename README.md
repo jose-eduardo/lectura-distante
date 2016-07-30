@@ -4,7 +4,7 @@ José Eduardo González/ Universidad de Nebraska
 Otoño del 2016
 SPAN 991
 
-OBJETIVO.
+**OBJETIVO**
 
 Por un lado, hemos rechazado las ideas tradicionales de un canon literario, de autores cuyos privilegiados textos tomamos
 como representaciones no sólo de la situación del campo literario—las ideas, los temas, el estilo que predominaba—en
@@ -28,26 +28,25 @@ desea, el estudiante podrá aprender más sobre estos temas y continuar su educa
 de las humanidades digitales de UNL.
 	Este curso no requiere experiencia previa en programación. 
 
-EVALUACIÓN:
+**EVALUACIÓN:**
 
-15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles
-	en la web (Voyant, Texteture, Google Ngrams). 
-15%	Segundo trabajo. Creación y análisis de una red social para Los de abajo o Huasipungo.
-40%	Tareas. Una serie de tareas asignadas relacionadas al lenguaje R. El estudiante responderá a preguntas que
++15% 	Primer trabajo. Consistirá en una lectura distante utilizando herramientas de humanidades digitales disponibles en la web (Voyant, Texteture, Google Ngrams). 
++15%	Segundo trabajo. Creación y análisis de una red social para Los de abajo o Huasipungo.
++40%	Tareas. Una serie de tareas asignadas relacionadas al lenguaje R. El estudiante responderá a preguntas que
 	requieren el análisis de datos y/o ejercicios de programación. 
-30%	Trabajo final individual. Uso de técnicas de minería de textos para estudiar uno de los textos sobre el cual ya 
++30%	Trabajo final individual. Uso de técnicas de minería de textos para estudiar uno de los textos sobre el cual ya 
 	hemos realizado una lectura “cercana”. 
 
 
 
-TEXTOS.
+**TEXTOS**
 
 Ficción/Poesía:
-Rómulo Gallegos, Doña Bárbara.
-Jorge Icaza, Huasipungo.
-Mariano Azuela, Los de abajo.
-Aurora Cáceres, La rosa muerta.
-Nellie Campobello, Cartucho.
+Rómulo Gallegos, *Doña Bárbara.*
+Jorge Icaza, *Huasipungo.*
+Mariano Azuela, *Los de abajo.*
+Aurora Cáceres, *La rosa muerta.*
+Nellie Campobello, *Cartucho.*
 Y otros textos disponibles a través de Blackboard en formato digital.
 
 Humanidades digitales:
