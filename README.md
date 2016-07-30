@@ -55,7 +55,7 @@ de las humanidades digitales de UNL.
 
 2. Humanidades digitales:
 
-   Mathew Jockers, Text Analysis with R for Students of Literature, abreviado TAWR en este prontuario,(Copia electrónica
+   Mathew Jockers, *Text Analysis with R for Students of Literature*, abreviado *TAWR* en este prontuario,(Copia electrónica
 disponible a través de la biblioteca de UNL) y otros artículos de teoría disponibles a través de Blackboard.
 
 **PROGRAMA**
@@ -135,8 +135,8 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
    Presentación del programa “Stylo”  
    Análisis estilográfico de narrativa novelística  
 
-6 de diciembre
-   Presentación de los trabajos finales  
+6 de diciembre  
+   *Presentación de los trabajos finales*  
    
    
 
