@@ -86,7 +86,7 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
    Tarea: Capítulo 3 de *TAWR*  
 	
 20 de septiembre  
-   Una mirada a recursos como *Voyant*, *Texteture*, *Google Ngrams* necesarios para el primer trabajo  
+   Una mirada a recursos como *Voyant*, *Textexture*, *Google Ngrams* necesarios para el primer trabajo  
    Análisis de redes sociales: [Franco Moretti, “Teoría de redes, Análisis de trama”]   (http://newleftreview.es/article/download_pdf?language=es&id=869).  
    Programación:  
      grep, rbind, lapply, do.call  
