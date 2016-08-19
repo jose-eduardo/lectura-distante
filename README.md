@@ -149,10 +149,10 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 Burrows, J. F. *Computation into Criticism: A Study of Jane Austen’s Novels and an Experiment in Method.* Oxford:  
    Clarendon, 1987.   
 Clement, Tanya E. “‘A thing not beginning and not ending’: Using Digital Tools to Distant-Read 	Gertrude Stein’s *The  
-   Making of Americans*”. *Literary and Linguistic Computing* 23.3 (2008):361–81.
+   Making of Americans*”. *Literary and Linguistic Computing* 23.3 (2008):361–81.  
 DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.”  
-   *Victorian Periodicals Review* 48. 2 (2015): 161-182.
-Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thir-teen Thousand Scholars  
+   *Victorian Periodicals Review* 48. 2 (2015): 161-182.  
+Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars  
    Could Tell Us”. *NLH* 45. 3 (2014): 359–84. [Sitio de web con los ejemplos de topic modeling que acompaña al artículo](http://www.rci.rutgers.edu/~ag978/quiet)  
 Hoover, David. [“Quantitative Analysis and Literary Studies”.](http://digitalhumanities.org/companion/)  
 ___.[“Textual Analysis”](https://dlsanthology.commons.mla.org/textual-analysis/)  
@@ -162,45 +162,45 @@ Moretti, Franco. “Gráficos, mapas, árboles. Modelos abstractos para la histo
    [Parte III](http://newleftreview.es/article/download_pdf?language=es&id=357)  
 ___. “Style, Inc. Reflections on Seven Thousand Titles (British Novels, 1740–1850)”. *Critical Inquiry* 36.1 (2009).  
 ___.[“Teoría de redes, análisis de trama”.](http://newleftreview.es/article/download_pdf?language=es&id=869)  
-So, Richard Jean, and Hoyt Long. “Network Analysis and the Sociology of Modernism”. *boundary 2* 40. 2 (2013): 147–182.
+So, Richard Jean, and Hoyt Long. “Network Analysis and the Sociology of Modernism”. *boundary 2* 40. 2 (2013): 147–182.  
 
-*Doña Bárbara*
+*Doña Bárbara*  
 Carrilla, Emilio. “La polaridad en Doña Bárbara”. *Nine Essays on Rómulo Gallegos.* Riverside: Latin American Studies  
-   Program at the University of California, 1979.
+   Program at the University of California, 1979.  
 Osorio, Nelson. “Doña Bárbara y el fantasma de Sarmiento”. *Escritura* 8.15 (1983): 19-35.  
-González Echevarría, Roberto. “Doña Bárbara Writes the Plain”. *The Voice of The Masters* 33-63.
+González Echevarría, Roberto. “Doña Bárbara Writes the Plain”. *The Voice of The Masters* 33-63.  
 Alonso, Carlos. *The Spanish American Regional Novel.* Cambridge: Cambridge UP, 1990.  
 
-*Novela de la revolución*
-Dabove, Juan Pablo. “La fiesta popular, la banda de bandidos, la “bola”: la Revolución y sus metáforas en *Los de
+*Novela de la revolución*  
+Dabove, Juan Pablo. “La fiesta popular, la banda de bandidos, la “bola”: la Revolución y sus metáforas en *Los de  
    abajo*”. *Heterotopías: narrativas de identidad y alteridad latinoamericana.* Pittsburgh: Biblioteca de América, 2003.
    167-195.
-Griffin, Clive. *Azuela: Los de abajo.* London: Grant and Cutler, 1993.
+Griffin, Clive. *Azuela: Los de abajo.* London: Grant and Cutler, 1993.  
 Izquierdo, Lucas. “Nellie Campobello's Cartucho (1931): Bandits, Politics, and Death”.*Revista Canadiense de Estudios*  
    *Hispánicos.*  37. 2 (2013): 339-354  
-Mansour, Mónica. “Cúspides inaccesibles”. *Mariano Azuela. Los de abajo.* Jorge Ruffinelli, ed. Nanterre Cedex:	Archivos,    1996. 251-74
-Martin, Gerald. “Mariano Azuela’s Point of View in *Los de abajo*” *Vida Hispánica* 32.2 (1983): 39-46.
+Mansour, Mónica. “Cúspides inaccesibles”. *Mariano Azuela. Los de abajo.* Jorge Ruffinelli, ed. Nanterre Cedex:	Archivos,    1996. 251-74  
+Martin, Gerald. “Mariano Azuela’s Point of View in *Los de abajo*” *Vida Hispánica* 32.2 (1983): 39-46.  
 Sklodowska, Elzbieta. “‘¿A qué no me lo cree?’: coerciones discursivas en *Los de abajo* de Mariano Azuela”.  
-   *Hispamérica* 23.69 (1994): 23-36.
+   *Hispamérica* 23.69 (1994): 23-36.  
 Unruh, Vicky. Capítulo 4 de *Performing Women and Modern Literary Culture in Latin America.* University of Texas  
-   Press, 2006. 
+   Press, 2006.  
 Vanden Berghe, Kristine. “*Cartucho*, de Nellie Campobello, antecedente primitivista de *Pedro páramo*”.  
 *Nueva Revista de Filología Hispánica.* 60. 2 (2012): 515-539 
 
 
-*Huasipungo*
+*Huasipungo*  
 Cornejo Polar, Antonio. “El indigenismo y las literaturas heterogéneas: su doble estatuto sociocultural”. *Revista de*  
-   *Crítica Literaria Latinoamericana.* 7-8. (1978): 7-21.
+   *Crítica Literaria Latinoamericana.* 7-8. (1978): 7-21.  
 Prieto, René. “The Literature of Indigenismo”. *The Cambridge History of Latin American Literature,* 2do volumen.  
    Ed. Roberto González Echevarría y Enrique Pupo-Walker. Cambridge: Cambridge UP, 1996.  
 Sacoto, Antonio. “Jorge Icaza: el indigenismo ecuatoriano”. *Revista de crítica literaria latinoamericana.*  
-   Año 17, No. 33 (1991), pp. 253-259.
+   Año 17, No. 33 (1991), pp. 253-259.  
 Foote, Deborah C. “Survival of the Fittest: Animal Imagery in Jorge Icaza's Huasipungo and the Reader's Perception of  
    the Indian”. *Beyond Indigenous Voice.* Lancaster, Calif.: Labyrinthos, 1996.  
 
 *Modernismo*
-González, Aníbal. *A Companion to Spanish American Modernism. London: Tamesis, 2007.
+González, Aníbal. *A Companion to Spanish American Modernism. London: Tamesis, 2007.  
 Jrade, Cathy. [Rubén Darío y la búsqueda romántica de la unidad.](http://discoverarchive.vanderbilt.edu/handle/1803/2046) Martínez, José. “Entre la lámpara y el espejo: la imaginación modernista de Manuel Gutiérrez Nájera”.  
    *Revista Canadiense de Estudios Hispánicos* 32. 2 (2008): 247-269  
-Rama, Angel. *Rubén Darío y el modernismo. Circunstancia socioeconómica de un arte americano.* Caracas:	Alfadil, 1985.
+Rama, Angel. *Rubén Darío y el modernismo. Circunstancia socioeconómica de un arte americano.* Caracas:	Alfadil, 1985.  
 
