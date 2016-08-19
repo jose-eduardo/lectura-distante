@@ -21,7 +21,7 @@ nos guiará en el modo de aplicar los nuevos métodos y herramientas.
 Este curso es, por lo tanto, una introducción a la minería textual dentro del contexto de los movimientos o estilos
 literarios que dominaron a principios del siglo XX en el campo literario latinoamericano. A lo largo del semestre,
 estudiaremos las interpretaciones tradicionales relacionadas con varios textos de ficción y poesía. A la vez, adquiriremos
-un conocimiento básico sobre el lenguaje de programación R el cual aplicaremos a los textos literarios leidos en clase y
+un conocimiento básico sobre el lenguaje de programación R el cual aplicaremos a los textos literarios leídos en clase y
 otros que “leeremos a distancia”. En algunas ocasiones, nos referiremos a temas teóricos (y controversias) relacionados a
 las humanidades digitales, pero la teoría de las humanidades digitales no es el foco principal de este curso. Si así lo
 desea, el estudiante podrá aprender más sobre estos temas y continuar su educación al obtener el certificado en el campo
@@ -62,7 +62,9 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 
  23 de agosto 	
 
-   Introducción al curso: historia literaria y lenguajes de programación  
+   Introducción al curso: historia literaria y lenguajes de programación
+   Lectura: [Franco Moretti, “Gráficos, mapas, árboles-1”]   (http://newleftreview.es/article/download_pdf?language=es&id=305)
+   
    Instalación de *Rstudio*  
    Introducción al lenguaje **R**, Vectores  
 
