@@ -147,7 +147,7 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 *Humanidades digitales*  
 
 Burrows, J. F. *Computation into Criticism: A Study of Jane Austen’s Novels and an Experiment in Method.* Oxford:  
-   Clarendon, 1987. 
+   Clarendon, 1987.   
 Clement, Tanya E. “‘A thing not beginning and not ending’: Using Digital Tools to Distant-Read 	Gertrude Stein’s *The  
    Making of Americans*”. *Literary and Linguistic Computing* 23.3 (2008):361–81.
 DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.”  
