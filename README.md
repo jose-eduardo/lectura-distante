@@ -62,7 +62,7 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 
  23 de agosto 	
 
-   Introducción al curso: historia literaria y lenguajes de programación
+   Introducción al curso: historia literaria y lenguajes de programación 
    Lectura: [Franco Moretti, “Gráficos, mapas, árboles-1”]   (http://newleftreview.es/article/download_pdf?language=es&id=305)
    
    Instalación de *Rstudio*  
