@@ -146,25 +146,26 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
 
 *Humanidades digitales*  
 
-Burrows, J. F. *Computation into Criticism: A Study of Jane Austen’s Novels and an Experiment in Method.* Oxford:  
++Burrows, J. F. *Computation into Criticism: A Study of Jane Austen’s Novels and an Experiment in Method.* Oxford:  
    Clarendon, 1987.   
-Clement, Tanya E. “‘A thing not beginning and not ending’: Using Digital Tools to Distant-Read 	Gertrude Stein’s *The  
++Clement, Tanya E. “‘A thing not beginning and not ending’: Using Digital Tools to Distant-Read Gertrude Stein’s *The  
    Making of Americans*”. *Literary and Linguistic Computing* 23.3 (2008):361–81.  
-DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.”  
-   *Victorian Periodicals Review* 48. 2 (2015): 161-182.  
-Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars  
++DeWitt, Anne. “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press.”  
+   *Victorian Periodicals Review* 48.2 (2015): 161-182.  
++Goldstone, Andrew, and Ted Underwood. “The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars  
    Could Tell Us”. *NLH* 45. 3 (2014): 359–84. [Sitio de web con los ejemplos de topic modeling que acompaña al artículo](http://www.rci.rutgers.edu/~ag978/quiet)  
-Hoover, David. [“Quantitative Analysis and Literary Studies”.](http://digitalhumanities.org/companion/)  
-___.[“Textual Analysis”](https://dlsanthology.commons.mla.org/textual-analysis/)  
-Moretti, Franco. “Gráficos, mapas, árboles. Modelos abstractos para la historia literaria”.  
-   [Parte I](http://newleftreview.es/article/download_pdf?language=es&id=305)  
-   [Parte II](http://newleftreview.es/article/download_pdf?language=es&id=337)  
-   [Parte III](http://newleftreview.es/article/download_pdf?language=es&id=357)  
++Hoover, David. [“Quantitative Analysis and Literary Studies”.](http://digitalhumanities.org/companion/)  
++___.[“Textual Analysis”](https://dlsanthology.commons.mla.org/textual-analysis/)  
++Moretti, Franco. “Gráficos, mapas, árboles. Modelos abstractos para la historia literaria”.  
+   +[Parte I](http://newleftreview.es/article/download_pdf?language=es&id=305)  
+   +[Parte II](http://newleftreview.es/article/download_pdf?language=es&id=337)  
+   +[Parte III](http://newleftreview.es/article/download_pdf?language=es&id=357)  
 ___. “Style, Inc. Reflections on Seven Thousand Titles (British Novels, 1740–1850)”. *Critical Inquiry* 36.1 (2009).  
 ___.[“Teoría de redes, análisis de trama”.](http://newleftreview.es/article/download_pdf?language=es&id=869)  
 So, Richard Jean, and Hoyt Long. “Network Analysis and the Sociology of Modernism”. *boundary 2* 40. 2 (2013): 147–182.  
 
 *Doña Bárbara*  
+
 Carrilla, Emilio. “La polaridad en Doña Bárbara”. *Nine Essays on Rómulo Gallegos.* Riverside: Latin American Studies  
    Program at the University of California, 1979.  
 Osorio, Nelson. “Doña Bárbara y el fantasma de Sarmiento”. *Escritura* 8.15 (1983): 19-35.  
