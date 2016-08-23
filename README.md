@@ -9,7 +9,7 @@
 Por un lado, hemos rechazado las ideas tradicionales de un canon literario, de autores cuyos privilegiados textos tomamos
 como representaciones no sólo de la situación del campo literario—las ideas, los temas, el estilo que predominaba—en
 determinado momento histórico, sino también como representación de una época cultural. Hemos continuado, como ha dicho
-Mathhew Wilkens, practicando la crítica literaria como si los métodos que utilizamos en el pasado, y que nos llevaron al
+Matthew Wilkens, practicando la crítica literaria como si los métodos que utilizamos en el pasado, y que nos llevaron al
 culto del texto privilegiado, fueran los adecuados para esta nueva tarea. La lectura “distante” obviamente no suplanta la
 lectura “cercana”, pero sí permite extender nuestra mirada crítica sobre un número mayor de textos, dándonos una
 perspectiva más amplia de la historia literaria. Además de permitirnos explorar una gran cantidad de textos, las
