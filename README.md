@@ -87,6 +87,9 @@ disponible a través de la biblioteca de UNL) y otros artículos de teoría disp
    Programación:  
      Loops  
    Tarea: Capítulo 3 de *TAWR*  
+   Para entregar la próxima semana: Siguiendo a Jockers en el capítulo 2, separar los metadatos del texto literario de la
+   versión de Project Gutenberg de [*Amistad Funesta* de José Martí] (http://www.gutenberg.org/cache/epub/18166/pg18166.txt) 
+   y obtener las diez palabras más frecuentes.
 	
 20 de septiembre  
    Una mirada a recursos como *Voyant*, *Textexture*, *Google Ngrams* necesarios para el primer trabajo  
